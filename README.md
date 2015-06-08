@@ -15,3 +15,4 @@ Modify File For Testing no-ff Fast forward
 
 /****************开发者二修改的****************/
 1、修改了内容，并推送到remote，让别人来pull
+2、测试冲突
