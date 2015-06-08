@@ -11,3 +11,7 @@ Modify File For Testing no-ff Fast forward
 修改了bug，返回master分支，合并代码后，删除bug分支
 
 完成了支付功能
+
+
+/****************开发者二修改的****************/
+1、修改了内容，并推送到remote，让别人来pull
